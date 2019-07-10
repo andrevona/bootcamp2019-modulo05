@@ -1,3 +1,7 @@
+# Modulo 05. Aplicação com ReactJS
+
+Neste módulo, foi desenvolvida uma plataforma web para listar e adicionar repositórios do GitHub.
+
 # Desafio 05. Aplicação com ReactJS
 
 Nesse desafio você adicionará novas funcionalidades na aplicação que desenvolvemos ao longo desse módulo.
